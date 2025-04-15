@@ -39,8 +39,6 @@ This system allows administrators to upload and verify documents, ensuring their
 ## Usage
 
 1.  Log in as an administrator using the credentials:
-    -   Username: `TEAM_5`
-    -   Password: `PROJECT`
 2.  Upload a scanned document or marksheet.
 3.  Verify the document.
 4.  As a student, go to the verification page and enter the document ID to verify the document.
