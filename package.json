@@ -1,0 +1,9 @@
+{
+  "name": "TEAM_5",
+  "version": "1.0.0",
+  "description": "BATCH",
+  "scripts": {
+    "start": "npx --yes serve",
+    "dev": "npx --yes serve"
+  }
+}
