@@ -48,12 +48,22 @@ The system simulates an **AI model** that validates uploaded documents and then 
 
 ## 📁 Folder Structure
 BLOCKCHAIN_AI/
-├── index.html
+│
+├── README.md
+├── app.js
 ├── blockchain.js
 ├── classification.js
-├── style.css
-├── assets/
-└── README.md
+├── document-storage.js
+├── dom-utils.js
+├── event-listeners.js
+├── index.html
+├── navigation.js
+├── package-lock.json
+├── package.json
+├── script.js
+├── state.js
+└── validation.js
+
 
 ---
 
